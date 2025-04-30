@@ -1,2 +1,2 @@
 console.log("version 3");
-console.log("bug fix");
+console.log("conflict 1");
